@@ -1,1 +1,62 @@
-[{"id":"5201","nama":"KAB. LOMBOK BARAT","latitude":-8.6654680429,"longitude":116.0934574457},{"id":"5202","nama":"KAB. LOMBOK TENGAH","latitude":-8.7221470115,"longitude":116.289838874},{"id":"5203","nama":"KAB. LOMBOK TIMUR","latitude":-8.5323241194,"longitude":116.5308120839},{"id":"5204","nama":"KAB. SUMBAWA","latitude":-8.7032981226,"longitude":117.4842611108},{"id":"5205","nama":"KAB. DOMPU","latitude":-8.472224493,"longitude":118.2168647329},{"id":"5206","nama":"KAB. BIMA","latitude":-8.4748062825,"longitude":118.6190179139},{"id":"5207","nama":"KAB. SUMBAWA BARAT","latitude":-8.8299137946,"longitude":116.9143814235},{"id":"5208","nama":"KAB. LOMBOK UTARA","latitude":-8.3488937389,"longitude":116.2829208406},{"id":"5271","nama":"KOTA MATARAM","latitude":-8.5901543822,"longitude":116.1109585905},{"id":"5272","nama":"KOTA BIMA","latitude":-8.4548698682,"longitude":118.7821297465}]
+[
+  {
+    "id": "5201",
+    "nama": "Kabupaten Lombok Barat",
+    "latitude": -8.6654680429,
+    "longitude": 116.0934574457
+  },
+  {
+    "id": "5202",
+    "nama": "Kabupaten Lombok Tengah",
+    "latitude": -8.7221470115,
+    "longitude": 116.289838874
+  },
+  {
+    "id": "5203",
+    "nama": "Kabupaten Lombok Timur",
+    "latitude": -8.5323241194,
+    "longitude": 116.5308120839
+  },
+  {
+    "id": "5204",
+    "nama": "Kabupaten Sumbawa",
+    "latitude": -8.7032981226,
+    "longitude": 117.4842611108
+  },
+  {
+    "id": "5205",
+    "nama": "Kabupaten Dompu",
+    "latitude": -8.472224493,
+    "longitude": 118.2168647329
+  },
+  {
+    "id": "5206",
+    "nama": "Kabupaten Bima",
+    "latitude": -8.4748062825,
+    "longitude": 118.6190179139
+  },
+  {
+    "id": "5207",
+    "nama": "Kabupaten Sumbawa Barat",
+    "latitude": -8.8299137946,
+    "longitude": 116.9143814235
+  },
+  {
+    "id": "5208",
+    "nama": "Kabupaten Lombok Utara",
+    "latitude": -8.3488937389,
+    "longitude": 116.2829208406
+  },
+  {
+    "id": "5271",
+    "nama": "Kota Mataram",
+    "latitude": -8.5901543822,
+    "longitude": 116.1109585905
+  },
+  {
+    "id": "5272",
+    "nama": "Kabupaten Bima",
+    "latitude": -8.4548698682,
+    "longitude": 118.7821297465
+  }
+]

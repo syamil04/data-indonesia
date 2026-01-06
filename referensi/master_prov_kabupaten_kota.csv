@@ -1,0 +1,548 @@
+  1, Jawa Barat              , Kabupaten Bekasi
+  2, Jawa Barat              , Kabupaten Purwakarta
+  3, Jawa Barat              , Kabupaten Karawang
+  4, Jawa Barat              , Kabupaten Bogor
+  5, Jawa Barat              , Kabupaten Sukabumi
+  6, Jawa Barat              , Kabupaten Cianjur
+  7, Jawa Barat              , Kabupaten Bandung
+  8, Jawa Barat              , Kabupaten Sumedang
+  9, Jawa Barat              , Kabupaten Tasikmalaya
+ 10, Jawa Barat              , Kabupaten Garut
+ 11, Jawa Barat              , Kabupaten Ciamis
+ 12, Jawa Barat              , Kabupaten Cirebon
+ 13, Jawa Barat              , Kabupaten Kuningan
+ 14, Jawa Barat              , Kabupaten Indramayu
+ 15, Jawa Barat              , Kabupaten Majalengka
+ 16, Jawa Barat              , Kabupaten Subang
+ 17, Jawa Barat              , Kabupaten Bandung Barat
+ 18, Jawa Barat              , Kabupaten Pangandaran
+ 19, Jawa Barat              , Kota Banjar
+ 20, Jawa Barat              , Kota Bandung
+ 21, Jawa Barat              , Kota Bogor
+ 22, Jawa Barat              , Kota Sukabumi
+ 23, Jawa Barat              , Kota Cirebon
+ 24, Jawa Barat              , Kota Tasikmalaya
+ 25, Jawa Barat              , Kota Cimahi
+ 26, Jawa Barat              , Kota Depok
+ 27, Jawa Barat              , Kota Bekasi
+ 28, Jawa Barat              , Kabupaten/Kota Lainnya di Jabar
+ 29, Banten                  , Kabupaten Lebak
+ 30, Banten                  , Kabupaten Pandeglang
+ 31, Banten                  , Kabupaten Serang
+ 32, Banten                  , Kabupaten Tangerang
+ 33, Banten                  , Kota Cilegon
+ 34, Banten                  , Kota Tangerang
+ 35, Banten                  , Kota Serang
+ 36, Banten                  , Kota Tangerang Selatan
+ 37, Banten                  , Kabupaten/Kota Lainnya di Banten
+ 38, DKI Jakarta             , Wil. Kota Jakarta Pusat
+ 39, DKI Jakarta             , Wil. Kota Jakarta Utara
+ 40, DKI Jakarta             , Wil. Kota Jakarta Barat
+ 41, DKI Jakarta             , Wil. Kota Jakarta Selatan
+ 42, DKI Jakarta             , Wil. Kota Jakarta Timur
+ 43, DKI Jakarta             , Wil. Kepulauan Seribu
+ 44, DI Yogyakarta           , Kabupaten Bantul
+ 45, DI Yogyakarta           , Kabupaten Sleman
+ 46, DI Yogyakarta           , Kabupaten Gunung Kidul
+ 47, DI Yogyakarta           , Kabupaten Kulon Progo
+ 48, DI Yogyakarta           , Kota Yogyakarta
+ 49, DI Yogyakarta           , Kabupaten/Kota Lainnya di Yogyakarta
+ 50, Jawa Tengah             , Kabupaten Semarang
+ 51, Jawa Tengah             , Kabupaten Kendal
+ 52, Jawa Tengah             , Kabupaten Demak
+ 53, Jawa Tengah             , Kabupaten Grobogan
+ 54, Jawa Tengah             , Kabupaten Pekalongan
+ 55, Jawa Tengah             , Kabupaten Tegal
+ 56, Jawa Tengah             , Kabupaten Brebes
+ 57, Jawa Tengah             , Kabupaten Pati
+ 58, Jawa Tengah             , Kabupaten Kudus
+ 59, Jawa Tengah             , Kabupaten Pemalang
+ 60, Jawa Tengah             , Kabupaten Jepara
+ 61, Jawa Tengah             , Kabupaten Rembang
+ 62, Jawa Tengah             , Kabupaten Blora
+ 63, Jawa Tengah             , Kabupaten Banyumas
+ 64, Jawa Tengah             , Kabupaten Cilacap
+ 65, Jawa Tengah             , Kabupaten Purbalingga
+ 66, Jawa Tengah             , Kabupaten Banjarnegara
+ 67, Jawa Tengah             , Kabupaten Magelang
+ 68, Jawa Tengah             , Kabupaten Temanggung
+ 69, Jawa Tengah             , Kabupaten Wonosobo
+ 70, Jawa Tengah             , Kabupaten Purworejo
+ 71, Jawa Tengah             , Kabupaten Kebumen
+ 72, Jawa Tengah             , Kabupaten Klaten
+ 73, Jawa Tengah             , Kabupaten Boyolali
+ 74, Jawa Tengah             , Kabupaten Sragen
+ 75, Jawa Tengah             , Kabupaten Sukoharjo
+ 76, Jawa Tengah             , Kabupaten Karanganyar
+ 77, Jawa Tengah             , Kabupaten Wonogiri
+ 78, Jawa Tengah             , Kabupaten Batang
+ 79, Jawa Tengah             , Kota Semarang
+ 80, Jawa Tengah             , Kota Salatiga
+ 81, Jawa Tengah             , Kota Pekalongan
+ 82, Jawa Tengah             , Kota Tegal
+ 83, Jawa Tengah             , Kota Magelang
+ 84, Jawa Tengah             , Kota Surakarta/Solo
+ 85, Jawa Tengah             , Kabupaten/Kota Lainnya di Jateng
+ 86, Jawa Timur              , Kabupaten Gresik
+ 87, Jawa Timur              , Kabupaten Sidoarjo
+ 88, Jawa Timur              , Kabupaten Mojokerto
+ 89, Jawa Timur              , Kabupaten Jombang
+ 90, Jawa Timur              , Kabupaten Sampang
+ 91, Jawa Timur              , Kabupaten Pamekasan
+ 92, Jawa Timur              , Kabupaten Sumenep
+ 93, Jawa Timur              , Kabupaten Bangkalan
+ 94, Jawa Timur              , Kabupaten Bondowoso
+ 95, Jawa Timur              , Kabupaten Banyuwangi
+ 96, Jawa Timur              , Kabupaten Jember
+ 97, Jawa Timur              , Kabupaten Malang
+ 98, Jawa Timur              , Kabupaten Pasuruan
+ 99, Jawa Timur              , Kabupaten Probolinggo
+100, Jawa Timur              , Kabupaten Lumajang
+101, Jawa Timur              , Kabupaten Kediri
+102, Jawa Timur              , Kabupaten Nganjuk
+103, Jawa Timur              , Kabupaten Tulungagung
+104, Jawa Timur              , Kabupaten Trenggalek
+105, Jawa Timur              , Kabupaten Blitar
+106, Jawa Timur              , Kabupaten Madiun
+107, Jawa Timur              , Kabupaten Ngawi
+108, Jawa Timur              , Kabupaten Magetan
+109, Jawa Timur              , Kabupaten Ponorogo
+110, Jawa Timur              , Kabupaten Pacitan
+111, Jawa Timur              , Kabupaten Bojonegoro
+112, Jawa Timur              , Kabupaten Tuban
+113, Jawa Timur              , Kabupaten Lamongan
+114, Jawa Timur              , Kabupaten Situbondo
+115, Jawa Timur              , Kota Surabaya
+116, Jawa Timur              , Kota Mojokerto
+117, Jawa Timur              , Kota Malang
+118, Jawa Timur              , Kota Pasuruan
+119, Jawa Timur              , Kota Probolinggo
+120, Jawa Timur              , Kota Blitar
+121, Jawa Timur              , Kota Kediri
+122, Jawa Timur              , Kota Madiun
+123, Jawa Timur              , Kota Batu
+124, Jawa Timur              , Kabupaten/Kota Lainnya di Jatim
+125, Bengkulu                , Kabupaten Bengkulu Selatan
+126, Bengkulu                , Kabupaten Bengkulu Utara
+127, Bengkulu                , Kabupaten Rejang Lebong
+128, Bengkulu                , Kabupaten Lebong
+129, Bengkulu                , Kabupaten Kepahiang
+130, Bengkulu                , Kabupaten Mukomuko
+131, Bengkulu                , Kabupaten Seluma
+132, Bengkulu                , Kabupaten Kaur
+133, Bengkulu                , Kabupaten Bengkulu Tengah
+134, Bengkulu                , Kota Bengkulu
+135, Bengkulu                , Kabupaten/Kota Lainnya di Bengkulu
+136, Jambi                   , Kabupaten Batanghari
+137, Jambi                   , Kabupaten Sarolangun
+138, Jambi                   , Kabupaten Kerinci
+139, Jambi                   , Kabupaten Muaro Jambi
+140, Jambi                   , Kabupaten Tanjung Jabung Barat
+141, Jambi                   , Kabupaten Tanjung Jabung Timur
+142, Jambi                   , Kabupaten Tebo
+143, Jambi                   , Kabupaten Merangin
+144, Jambi                   , Kabupaten Bungo
+145, Jambi                   , Kota Jambi
+146, Jambi                   , Kota Sungai Penuh
+147, Jambi                   , Kabupaten/Kota Lainnya di Jambi
+148, Nanggroe Aceh Darussalam, Kabupaten Aceh Besar
+149, Nanggroe Aceh Darussalam, Kabupaten Pidie
+150, Nanggroe Aceh Darussalam, Kabupaten Aceh Utara
+151, Nanggroe Aceh Darussalam, Kabupaten Aceh Timur
+152, Nanggroe Aceh Darussalam, Kabupaten Aceh Selatan
+153, Nanggroe Aceh Darussalam, Kabupaten Aceh Barat
+154, Nanggroe Aceh Darussalam, Kabupaten Aceh Tengah
+155, Nanggroe Aceh Darussalam, Kabupaten Aceh Tenggara
+156, Nanggroe Aceh Darussalam, Kabupaten Aceh Singkil
+157, Nanggroe Aceh Darussalam, Kabupaten Aceh Jeumpa/Bireuen
+158, Nanggroe Aceh Darussalam, Kabupaten Aceh Tamiang
+159, Nanggroe Aceh Darussalam, Kabupaten Gayo Lues
+160, Nanggroe Aceh Darussalam, Kabupaten Aceh Barat Daya
+161, Nanggroe Aceh Darussalam, Kabupaten Aceh Jaya
+162, Nanggroe Aceh Darussalam, Kabupaten Nagan Raya
+163, Nanggroe Aceh Darussalam, Kabupaten Simeuleu
+164, Nanggroe Aceh Darussalam, Kabupaten Bener Meriah
+165, Nanggroe Aceh Darussalam, Kabupaten Pidie Jaya
+166, Nanggroe Aceh Darussalam, Kota Subulussalam
+167, Nanggroe Aceh Darussalam, Kota Banda Aceh
+168, Nanggroe Aceh Darussalam, Kota Sabang
+169, Nanggroe Aceh Darussalam, Kota Lhokseumawe
+170, Nanggroe Aceh Darussalam, Kota Langsa
+171, Nanggroe Aceh Darussalam, Kabupaten/Kota Lainnya di Aceh
+172, Sumatra Utara           , Kabupaten Deli Serdang
+173, Sumatra Utara           , Kabupaten Langkat
+174, Sumatra Utara           , Kabupaten Karo
+175, Sumatra Utara           , Kabupaten Simalungun
+176, Sumatra Utara           , Kabupaten Labuhan Batu
+177, Sumatra Utara           , Kabupaten Asahan
+178, Sumatra Utara           , Kabupaten Dairi
+179, Sumatra Utara           , Kabupaten Tapanuli Utara
+180, Sumatra Utara           , Kabupaten Tapanuli Tengah
+181, Sumatra Utara           , Kabupaten Tapanuli Selatan
+182, Sumatra Utara           , Kabupaten Nias
+183, Sumatra Utara           , Kabupaten Toba Samosir
+184, Sumatra Utara           , Kabupaten Mandailing Natal
+185, Sumatra Utara           , Kabupaten Nias Selatan
+186, Sumatra Utara           , Kabupaten Humbang Hasundutan
+187, Sumatra Utara           , Kabupaten Pakpak Bharat
+188, Sumatra Utara           , Kabupaten Samosir
+189, Sumatra Utara           , Kabupaten Serdang Bedagai
+190, Sumatra Utara           , Kabupaten Batu Bara
+191, Sumatra Utara           , Kabupaten Padang Lawas
+192, Sumatra Utara           , Kabupaten Padang Lawas Utara
+193, Sumatra Utara           , Kabupaten Labuhanbatu Selatan
+194, Sumatra Utara           , Kabupaten Labuhanbatu Utara
+195, Sumatra Utara           , Kabupaten Nias Barat
+196, Sumatra Utara           , Kabupaten Nias Utara
+197, Sumatra Utara           , Kota Tebing Tinggi
+198, Sumatra Utara           , Kota Binjai
+199, Sumatra Utara           , Kota Pematang Siantar
+200, Sumatra Utara           , Kota Tanjung Balai
+201, Sumatra Utara           , Kota Sibolga
+202, Sumatra Utara           , Kota Medan
+203, Sumatra Utara           , Kota Gunung Sitoli
+204, Sumatra Utara           , Kota Padang Sidempuan
+205, Sumatra Utara           , Kabupaten/Kota Lainnya di Sumut
+206, Sumatra Barat           , Kabupaten Agam
+207, Sumatra Barat           , Kabupaten Pasaman
+208, Sumatra Barat           , Kabupaten Limapuluh Kota
+209, Sumatra Barat           , Kabupaten Solok Selatan
+210, Sumatra Barat           , Kabupaten Padang Pariaman
+211, Sumatra Barat           , Kabupaten Pesisir Selatan
+212, Sumatra Barat           , Kabupaten Tanah Datar
+213, Sumatra Barat           , Kabupaten Sawah Lunto/Sijunjung
+214, Sumatra Barat           , Kabupaten Kepulauan Mentawai
+215, Sumatra Barat           , Kabupaten Pasaman Barat
+216, Sumatra Barat           , Kabupaten Dharmasraya
+217, Sumatra Barat           , Kabupaten Solok
+218, Sumatra Barat           , Kota Bukittinggi
+219, Sumatra Barat           , Kota Padang
+220, Sumatra Barat           , Kota Sawahlunto
+221, Sumatra Barat           , Kota Padang Panjang
+222, Sumatra Barat           , Kota Solok
+223, Sumatra Barat           , Kota Payakumbuh
+224, Sumatra Barat           , Kota Pariaman
+225, Sumatra Barat           , Kabupaten/Kota Lainnya di Sumbar
+226, Riau                    , Kabupaten Kampar
+227, Riau                    , Kabupaten Bengkalis
+228, Riau                    , Kabupaten Indragiri Hulu
+229, Riau                    , Kabupaten Indragiri Hilir
+230, Riau                    , Kabupaten Rokan Hulu
+231, Riau                    , Kabupaten Rokan Hilir
+232, Riau                    , Kabupaten Pelalawan
+233, Riau                    , Kabupaten Siak
+234, Riau                    , Kabupaten Kuantan Singingi
+235, Riau                    , Kabupaten Kepulauan Meranti
+236, Riau                    , Kota Pekanbaru
+237, Riau                    , Kota Dumai
+238, Riau                    , Kabupaten/Kota Lainnya di Riau
+239, Sumatra Selatan         , Kabupaten Musi Banyuasin
+240, Sumatra Selatan         , Kabupaten Ogan Komering Ulu
+241, Sumatra Selatan         , Kabupaten Lematang Ilir Ogan Tengah (Muara Enim)
+242, Sumatra Selatan         , Kabupaten Lahat
+243, Sumatra Selatan         , Kabupaten Musi Rawas
+244, Sumatra Selatan         , Kabupaten Ogan Komering Ilir
+245, Sumatra Selatan         , Kabupaten Banyuasin
+246, Sumatra Selatan         , Kabupaten Ogan Komering Ulu Selatan
+247, Sumatra Selatan         , Kabupaten Ogan Komering Ulu Timur
+248, Sumatra Selatan         , Kabupaten Ogan Ilir
+249, Sumatra Selatan         , Kabupaten Empat Lawang
+250, Sumatra Selatan         , Kabupaten Musi Rawas Utara
+251, Sumatra Selatan         , Kabupaten Penukal Abab Lematang Ilir
+252, Sumatra Selatan         , Kota Palembang
+253, Sumatra Selatan         , Kota Lubuklinggau
+254, Sumatra Selatan         , Kota Prabumulih
+255, Sumatra Selatan         , Kota Pagar Alam
+256, Sumatra Selatan         , Kabupaten/Kota Lainnya di Sumsel
+257, Bangka Belitung         , Kabupaten Bangka
+258, Bangka Belitung         , Kabupaten Belitung
+259, Bangka Belitung         , Kabupaten Bangka Barat
+260, Bangka Belitung         , Kabupaten Bangka Selatan
+261, Bangka Belitung         , Kabupaten Bangka Tengah
+262, Bangka Belitung         , Kabupaten Belitung Timur
+263, Bangka Belitung         , Kabupaten Bangka Belitung
+264, Bangka Belitung         , Kota Pangkal Pinang
+265, Bangka Belitung         , Kabupaten/Kota Lainnya di Babel
+266, Kep. Riau               , Kabupaten Karimun
+267, Kep. Riau               , Kabupaten Lingga
+268, Kep. Riau               , Kabupaten Natuna
+269, Kep. Riau               , Kabupaten Bintan (d/h Kabupaten Kepulauan Riau)
+270, Kep. Riau               , Kabupaten Anambas
+271, Kep. Riau               , Kota Tanjung Pinang
+272, Kep. Riau               , Kota Batam
+273, Kep. Riau               , Kabupaten/Kota Lainnya di Kep. Riau
+274, Lampung                 , Kabupaten Lampung Selatan
+275, Lampung                 , Kabupaten Lampung Tengah
+276, Lampung                 , Kabupaten Lampung Utara
+277, Lampung                 , Kabupaten Lampung Barat
+278, Lampung                 , Kabupaten Tulang Bawang
+279, Lampung                 , Kabupaten Tanggamus
+280, Lampung                 , Kabupaten Lampung Timur
+281, Lampung                 , Kabupaten Way Kanan
+282, Lampung                 , Kabupaten Pesawaran
+283, Lampung                 , Kabupaten Pringsewu
+284, Lampung                 , Kabupaten Tulang Bawang Barat
+285, Lampung                 , Kabupaten Mesuji
+286, Lampung                 , Kabupaten Pesisir Barat
+287, Lampung                 , Kota Bandar Lampung
+288, Lampung                 , Kota  Metro
+289, Lampung                 , Kabupaten/Kota Lainnya di Lampung
+290, Kalimantan Selatan      , Kabupaten Banjar
+291, Kalimantan Selatan      , Kabupaten Tanah Laut
+292, Kalimantan Selatan      , Kabupaten Tapin
+293, Kalimantan Selatan      , Kabupaten Hulu Sungai Selatan
+294, Kalimantan Selatan      , Kabupaten Hulu Sungai Tengah
+295, Kalimantan Selatan      , Kabupaten Hulu Sungai Utara
+296, Kalimantan Selatan      , Kabupaten Barito Kuala
+297, Kalimantan Selatan      , Kabupaten Kota Baru
+298, Kalimantan Selatan      , Kabupaten Tabalong
+299, Kalimantan Selatan      , Kabupaten Tanah Bumbu
+300, Kalimantan Selatan      , Kabupaten Balangan
+301, Kalimantan Selatan      , Kota Banjarmasin
+302, Kalimantan Selatan      , Kota Banjarbaru
+303, Kalimantan Selatan      , Kabupaten/Kota Lainnya di Kalsel
+304, Kalimantan Barat        , Kabupaten Pontianak
+305, Kalimantan Barat        , Kabupaten Sambas
+306, Kalimantan Barat        , Kabupaten Ketapang
+307, Kalimantan Barat        , Kabupaten Sanggau
+308, Kalimantan Barat        , Kabupaten Sintang
+309, Kalimantan Barat        , Kabupaten Kapuas Hulu
+310, Kalimantan Barat        , Kabupaten Bengkayang
+311, Kalimantan Barat        , Kabupaten Landak
+312, Kalimantan Barat        , Kabupaten Sekadau
+313, Kalimantan Barat        , Kabupaten Melawi
+314, Kalimantan Barat        , Kabupaten Kayong Utara
+315, Kalimantan Barat        , Kabupaten Kubu Raya
+316, Kalimantan Barat        , Kota Pontianak
+317, Kalimantan Barat        , Kota Singkawang
+318, Kalimantan Barat        , Kabupaten/Kota Lainnya di Kalbar
+319, Kalimantan Timur        , Kabupaten Kutai Kartanegara
+320, Kalimantan Timur        , Kabupaten Berau
+321, Kalimantan Timur        , Kabupaten Paser
+322, Kalimantan Timur        , Kabupaten Kutai Barat
+323, Kalimantan Timur        , Kabupaten Kutai Timur
+324, Kalimantan Timur        , Kabupaten Penajam Paser Utara
+325, Kalimantan Timur        , Kabupaten Mahakam Ulu
+326, Kalimantan Timur        , Kota Samarinda
+327, Kalimantan Timur        , Kota Balikpapan
+328, Kalimantan Timur        , Kota Bontang
+329, Kalimantan Timur        , Kabupaten/Kota Lainnya di Kaltim
+330, Kalimantan Utara        , Kabupaten Bulungan
+331, Kalimantan Utara        , Kabupaten Nunukan
+332, Kalimantan Utara        , Kabupaten Malinau
+333, Kalimantan Utara        , Kabupaten Tana Tidung
+334, Kalimantan Utara        , Kota Tarakan
+335, Kalimantan Utara        , Kabupaten/Kota Lainnya di Kaltara
+336, Kalimantan Tengah       , Kabupaten Kapuas
+337, Kalimantan Tengah       , Kabupaten Kotawaringin Barat
+338, Kalimantan Tengah       , Kabupaten Kotawaringin Timur
+339, Kalimantan Tengah       , Kabupaten Barito Selatan
+340, Kalimantan Tengah       , Kabupaten Barito Utara
+341, Kalimantan Tengah       , Kabupaten Murung Raya
+342, Kalimantan Tengah       , Kabupaten Barito Timur
+343, Kalimantan Tengah       , Kabupaten Gunung Mas
+344, Kalimantan Tengah       , Kabupaten Pulang Pisau
+345, Kalimantan Tengah       , Kabupaten Seruyan
+346, Kalimantan Tengah       , Kabupaten Katingan
+347, Kalimantan Tengah       , Kabupaten Sukamara
+348, Kalimantan Tengah       , Kabupaten Lamandau
+349, Kalimantan Tengah       , Kota Palangkaraya
+350, Kalimantan Tengah       , Kabupaten/Kota Lainnya di Kalteng
+351, Sulawesi Tengah         , Kabupaten Donggala
+352, Sulawesi Tengah         , Kabupaten Poso
+353, Sulawesi Tengah         , Kabupaten Banggai
+354, Sulawesi Tengah         , Kabupaten Toli-Toli
+355, Sulawesi Tengah         , Kabupaten Banggai Kepulauan
+356, Sulawesi Tengah         , Kabupaten Morowali
+357, Sulawesi Tengah         , Kabupaten Buol
+358, Sulawesi Tengah         , Kabupaten Tojo Una-Una
+359, Sulawesi Tengah         , Kabupaten Parigi Moutong
+360, Sulawesi Tengah         , Kabupaten Sigi
+361, Sulawesi Tengah         , Kabupaten Banggai Laut
+362, Sulawesi Tengah         , Kabupaten Morowali Utara
+363, Sulawesi Tengah         , Kota Palu
+364, Sulawesi Tengah         , Kabupaten/Kota Lainnya di Sulteng
+365, Sulawesi Selatan        , Kabupaten Pinrang
+366, Sulawesi Selatan        , Kabupaten Gowa
+367, Sulawesi Selatan        , Kabupaten Wajo
+368, Sulawesi Selatan        , Kabupaten Bone
+369, Sulawesi Selatan        , Kabupaten Tana Toraja
+370, Sulawesi Selatan        , Kabupaten Maros
+371, Sulawesi Selatan        , Kabupaten Luwu
+372, Sulawesi Selatan        , Kabupaten Sinjai
+373, Sulawesi Selatan        , Kabupaten Bulukumba
+374, Sulawesi Selatan        , Kabupaten Bantaeng
+375, Sulawesi Selatan        , Kabupaten Jeneponto
+376, Sulawesi Selatan        , Kabupaten Selayar
+377, Sulawesi Selatan        , Kabupaten Takalar
+378, Sulawesi Selatan        , Kabupaten Barru
+379, Sulawesi Selatan        , Kabupaten Sidenreng Rappang
+380, Sulawesi Selatan        , Kabupaten Pangkajene Kepulauan
+381, Sulawesi Selatan        , Kabupaten Soppeng (d/h Watansoppeng)
+382, Sulawesi Selatan        , Kabupaten Enrekang
+383, Sulawesi Selatan        , Kabupaten Luwu Timur (d/h Luwu Selatan)
+384, Sulawesi Selatan        , Kabupaten Luwu Utara
+385, Sulawesi Selatan        , Kabupaten Toraja Utara
+386, Sulawesi Selatan        , Kota Makassar
+387, Sulawesi Selatan        , Kota Pare-Pare
+388, Sulawesi Selatan        , Kota Palopo
+389, Sulawesi Selatan        , Kabupaten/Kota Lainnya di Sulsel
+390, Sulawesi Utara          , Kabupaten Minahasa
+391, Sulawesi Utara          , Kabupaten Bolaang Mongondow
+392, Sulawesi Utara          , Kabupaten Kepulauan Sangihe
+393, Sulawesi Utara          , Kabupaten Kepulauan Talaud
+394, Sulawesi Utara          , Kabupaten Minahasa Selatan
+395, Sulawesi Utara          , Kabupaten Minahasa Utara
+396, Sulawesi Utara          , Kabupaten Minahasa Tenggara
+397, Sulawesi Utara          , Kabupaten Bolaang Mongondow Utara
+398, Sulawesi Utara          , Kabupaten Kepulauan Sitaro
+399, Sulawesi Utara          , Kabupaten Bolaang Mongondow Selatan
+400, Sulawesi Utara          , Kabupaten Bolaang Mongondow Timur
+401, Sulawesi Utara          , Kota Manado
+402, Sulawesi Utara          , Kota Kotamobagu
+403, Sulawesi Utara          , Kota Bitung
+404, Sulawesi Utara          , Kota Tomohon
+405, Sulawesi Utara          , Kabupaten/Kota Lainnya di Sulut
+406, Gorontalo               , Kabupaten Gorontalo
+407, Gorontalo               , Kabupaten Boalemo
+408, Gorontalo               , Kabupaten Bonebolango
+409, Gorontalo               , Kabupaten Pohuwato
+410, Gorontalo               , Kabupaten Gorontalo Utara
+411, Gorontalo               , Kota Gorontalo
+412, Gorontalo               , Kabupaten/Kota Lainnya di Gorontalo
+413, Sulawesi Barat          , Kabupaten Polewali Mandar
+414, Sulawesi Barat          , Kabupaten Majene
+415, Sulawesi Barat          , Kabupaten Mamasa
+416, Sulawesi Barat          , Kabupaten Mamuju Utara
+417, Sulawesi Barat          , Kabupaten Mamuju Tengah
+418, Sulawesi Barat          , Kabupaten Mamuju
+419, Sulawesi Barat          , Kabupaten/Kota Lainnya di Sulbar
+420, Sulawesi Tenggara       , Kabupaten Buton
+421, Sulawesi Tenggara       , Kabupaten Muna
+422, Sulawesi Tenggara       , Kabupaten Kolaka
+423, Sulawesi Tenggara       , Kabupaten Wakatobi
+424, Sulawesi Tenggara       , Kabupaten Konawe
+425, Sulawesi Tenggara       , Kabupaten Konawe Selatan
+426, Sulawesi Tenggara       , Kabupaten Bombana
+427, Sulawesi Tenggara       , Kabupaten Kolaka Utara
+428, Sulawesi Tenggara       , Kabupaten Buton Utara
+429, Sulawesi Tenggara       , Kabupaten Konawe Utara
+430, Sulawesi Tenggara       , Kabupaten Kolaka Timur
+431, Sulawesi Tenggara       , Kabupaten Konawe Kepulauan
+432, Sulawesi Tenggara       , Kabupaten Buton Selatan
+433, Sulawesi Tenggara       , Kabupaten Buton Tengah
+434, Sulawesi Tenggara       , Kabupaten Muna Barat
+435, Sulawesi Tenggara       , Kota Bau-Bau
+436, Sulawesi Tenggara       , Kota Kendari
+437, Sulawesi Tenggara       , Kabupaten/Kota Lainnya di Sulteng
+438, Nusa Tenggara Barat     , Kabupaten Lombok Barat
+439, Nusa Tenggara Barat     , Kabupaten Lombok Tengah
+440, Nusa Tenggara Barat     , Kabupaten Lombok Timur
+441, Nusa Tenggara Barat     , Kabupaten Sumbawa
+442, Nusa Tenggara Barat     , Kabupaten Bima
+443, Nusa Tenggara Barat     , Kabupaten Dompu
+444, Nusa Tenggara Barat     , Kabupaten Sumbawa Barat
+445, Nusa Tenggara Barat     , Kabupaten Lombok Utara
+446, Nusa Tenggara Barat     , Kota Mataram
+447, Nusa Tenggara Barat     , Kota. Bima
+448, Nusa Tenggara Barat     , Kabupaten/Kota Lainnya di NTB
+449, Bali                    , Kabupaten Buleleng
+450, Bali                    , Kabupaten Jembrana
+451, Bali                    , Kabupaten Tabanan
+452, Bali                    , Kabupaten Badung
+453, Bali                    , Kabupaten Gianyar
+454, Bali                    , Kabupaten Klungkung
+455, Bali                    , Kabupaten Bangli
+456, Bali                    , Kabupaten Karangasem
+457, Bali                    , Kota Denpasar
+458, Bali                    , Kabupaten/Kota Lainnya di Bali
+459, Nusa Tenggara Timur     , Kabupaten Kupang
+460, Nusa Tenggara Timur     , Kabupaten Timor-Tengah Selatan
+461, Nusa Tenggara Timur     , Kabupaten Timor-Tengah Utara
+462, Nusa Tenggara Timur     , Kabupaten Belu
+463, Nusa Tenggara Timur     , Kabupaten Alor
+464, Nusa Tenggara Timur     , Kabupaten Flores Timur
+465, Nusa Tenggara Timur     , Kabupaten Sikka
+466, Nusa Tenggara Timur     , Kabupaten Ende
+467, Nusa Tenggara Timur     , Kabupaten Ngada
+468, Nusa Tenggara Timur     , Kabupaten Manggarai
+469, Nusa Tenggara Timur     , Kabupaten Sumba Timur
+470, Nusa Tenggara Timur     , Kabupaten Sumba Barat
+471, Nusa Tenggara Timur     , Kabupaten Lembata
+472, Nusa Tenggara Timur     , Kabupaten Rote Ndao
+473, Nusa Tenggara Timur     , Kabupaten Manggarai Barat
+474, Nusa Tenggara Timur     , Kabupaten Sumba Tengah
+475, Nusa Tenggara Timur     , Kabupaten Sumba Barat Daya
+476, Nusa Tenggara Timur     , Kabupaten Manggarai Timur
+477, Nusa Tenggara Timur     , Kabupaten Nagekeo
+478, Nusa Tenggara Timur     , Kabupaten Sab Raijua
+479, Nusa Tenggara Timur     , Kabupaten Malaka
+480, Nusa Tenggara Timur     , Kota Kupang
+481, Nusa Tenggara Timur     , Kabupaten/Kota Lainnya di NTT
+482, Maluku                  , Kabupaten Maluku Tengah
+483, Maluku                  , Kabupaten Maluku Tenggara
+484, Maluku                  , Kabupaten Maluku Tenggara Barat
+485, Maluku                  , Kabupaten Buru
+486, Maluku                  , Kota Seram Bagian Barat
+487, Maluku                  , Kota Seram Bagian Timur
+488, Maluku                  , Kota Kepulauan Aru
+489, Maluku                  , Kabupaten Maluku Barat Daya
+490, Maluku                  , Kabupaten Buru Selatan
+491, Maluku                  , Kota Ambon
+492, Maluku                  , Kota Tual
+493, Maluku                  , Kabupaten/Kota Lainnya di Maluku
+494, Papua                   , Kabupaten Jayapura
+495, Papua                   , Kabupaten Biak Numfor
+496, Papua                   , Kabupaten Kepulauan Yapen-Waropen
+497, Papua                   , Kabupaten Merauke
+498, Papua                   , Kabupaten Paniai
+499, Papua                   , Kabupaten Jayawijaya
+500, Papua                   , Kabupaten Nabire
+501, Papua                   , Kabupaten Mimika
+502, Papua                   , Kabupaten Puncak Jaya
+503, Papua                   , Kabupaten Sarmi
+504, Papua                   , Kabupaten Keerom
+505, Papua                   , Kabupaten Pegunungan Bintang
+506, Papua                   , Kabupaten Yahukimo
+507, Papua                   , Kabupaten Tolikara
+508, Papua                   , Kabupaten Waropen
+509, Papua                   , Kabupaten Boven Digoel
+510, Papua                   , Kabupaten Mappi
+511, Papua                   , Kabupaten Asmat
+512, Papua                   , Kabupaten Supiori
+513, Papua                   , Kabupaten Mamberamo Raya
+514, Papua                   , Kabupaten Dogiyai
+515, Papua                   , Kabupaten Lanny Jaya
+516, Papua                   , Kabupaten Mamberamo Tengah
+517, Papua                   , Kabupaten Nduga
+518, Papua                   , Kabupaten Yalimo
+519, Papua                   , Kabupaten Puncak
+520, Papua                   , Kabupaten Intan Jaya
+521, Papua                   , Kabupaten Deiyai
+522, Papua                   , Kota Jayapura
+523, Papua                   , Kabupaten/Kota Lainnya di Papua
+524, Maluku Utara            , Kabupaten Halmahera Tengah
+525, Maluku Utara            , Kabupaten Halmahera Utara
+526, Maluku Utara            , Kabupaten Halmahera Timur
+527, Maluku Utara            , Kabupaten Halmahera Barat
+528, Maluku Utara            , Kabupaten Halmahera Selatan
+529, Maluku Utara            , Kabupaten Kepulauan Sula
+530, Maluku Utara            , Kabupaten Pulau Morotai
+531, Maluku Utara            , Kabupaten Pulau Taliabu
+532, Maluku Utara            , Kota Ternate
+533, Maluku Utara            , Kota Tidore Kepulauan
+534, Maluku Utara            , Kabupaten/Kota Lainnya di Maluku Utara
+535, Papua Barat             , Kabupaten Sorong
+536, Papua Barat             , Kabupaten Fak-Fak
+537, Papua Barat             , Kabupaten Manokwari
+538, Papua Barat             , Kabupaten Sorong Selatan
+539, Papua Barat             , Kabupaten Raja Ampat
+540, Papua Barat             , Kabupaten Kaimana
+541, Papua Barat             , Kabupaten Teluk Bintuni
+542, Papua Barat             , Kabupaten Teluk Wondama
+543, Papua Barat             , Kabupaten Tembrauw
+544, Papua Barat             , Kabupaten Maybrat
+545, Papua Barat             , Kabupaten Pegunungan Arfak
+546, Papua Barat             , Kabupaten Manokwari Selatan
+547, Papua Barat             , Kota Sorong
+548, Papua Barat             , Kabupaten/Kota Lainnya di Papua Barat

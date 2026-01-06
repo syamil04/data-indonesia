@@ -1,1 +1,118 @@
-[{"id":"9401","nama":"KABUPATEN MERAUKE"},{"id":"9402","nama":"KABUPATEN JAYAWIJAYA"},{"id":"9403","nama":"KABUPATEN JAYAPURA"},{"id":"9404","nama":"KABUPATEN NABIRE"},{"id":"9408","nama":"KABUPATEN KEPULAUAN YAPEN"},{"id":"9409","nama":"KABUPATEN BIAK NUMFOR"},{"id":"9410","nama":"KABUPATEN PANIAI"},{"id":"9411","nama":"KABUPATEN PUNCAK JAYA"},{"id":"9412","nama":"KABUPATEN MIMIKA"},{"id":"9413","nama":"KABUPATEN BOVEN DIGOEL"},{"id":"9414","nama":"KABUPATEN MAPPI"},{"id":"9415","nama":"KABUPATEN ASMAT"},{"id":"9416","nama":"KABUPATEN YAHUKIMO"},{"id":"9417","nama":"KABUPATEN PEGUNUNGAN BINTANG"},{"id":"9418","nama":"KABUPATEN TOLIKARA"},{"id":"9419","nama":"KABUPATEN SARMI"},{"id":"9420","nama":"KABUPATEN KEEROM"},{"id":"9426","nama":"KABUPATEN WAROPEN"},{"id":"9427","nama":"KABUPATEN SUPIORI"},{"id":"9428","nama":"KABUPATEN MAMBERAMO RAYA"},{"id":"9429","nama":"KABUPATEN NDUGA"},{"id":"9430","nama":"KABUPATEN LANNY JAYA"},{"id":"9431","nama":"KABUPATEN MAMBERAMO TENGAH"},{"id":"9432","nama":"KABUPATEN YALIMO"},{"id":"9433","nama":"KABUPATEN PUNCAK"},{"id":"9434","nama":"KABUPATEN DOGIYAI"},{"id":"9435","nama":"KABUPATEN INTAN JAYA"},{"id":"9436","nama":"KABUPATEN DEIYAI"},{"id":"9471","nama":"KOTA JAYAPURA"}]
+[
+  {
+    "id": "9401",
+    "nama": "Kabupaten Merauke"
+  },
+  {
+    "id": "9402",
+    "nama": "Kabupaten Jayawijaya"
+  },
+  {
+    "id": "9403",
+    "nama": "Kabupaten Jayapura"
+  },
+  {
+    "id": "9404",
+    "nama": "Kabupaten Nabire"
+  },
+  {
+    "id": "9408",
+    "nama": "Kabupaten Kepulauan Yapen"
+  },
+  {
+    "id": "9409",
+    "nama": "Kabupaten Biak Numfor"
+  },
+  {
+    "id": "9410",
+    "nama": "Kabupaten Paniai"
+  },
+  {
+    "id": "9411",
+    "nama": "Kabupaten Puncak Jaya"
+  },
+  {
+    "id": "9412",
+    "nama": "Kabupaten Mimika"
+  },
+  {
+    "id": "9413",
+    "nama": "Kabupaten Boven Digoel"
+  },
+  {
+    "id": "9414",
+    "nama": "Kabupaten Mappi"
+  },
+  {
+    "id": "9415",
+    "nama": "Kabupaten Asmat"
+  },
+  {
+    "id": "9416",
+    "nama": "Kabupaten Yahukimo"
+  },
+  {
+    "id": "9417",
+    "nama": "Kabupaten Pegunungan Bintang"
+  },
+  {
+    "id": "9418",
+    "nama": "Kabupaten Tolikara"
+  },
+  {
+    "id": "9419",
+    "nama": "Kabupaten Sarmi"
+  },
+  {
+    "id": "9420",
+    "nama": "Kabupaten Keerom"
+  },
+  {
+    "id": "9426",
+    "nama": "Kabupaten Waropen"
+  },
+  {
+    "id": "9427",
+    "nama": "Kabupaten Supiori"
+  },
+  {
+    "id": "9428",
+    "nama": "Kabupaten Mamberamo Raya"
+  },
+  {
+    "id": "9429",
+    "nama": "Kabupaten Nduga"
+  },
+  {
+    "id": "9430",
+    "nama": "Kabupaten Lanny Jaya"
+  },
+  {
+    "id": "9431",
+    "nama": "Kabupaten Mamberamo Tengah"
+  },
+  {
+    "id": "9432",
+    "nama": "Kabupaten Yalimo"
+  },
+  {
+    "id": "9433",
+    "nama": "Kabupaten Puncak"
+  },
+  {
+    "id": "9434",
+    "nama": "Kabupaten Dogiyai"
+  },
+  {
+    "id": "9435",
+    "nama": "Kabupaten Intan Jaya"
+  },
+  {
+    "id": "9436",
+    "nama": "Kabupaten Deiyai"
+  },
+  {
+    "id": "9471",
+    "nama": "Kota Jayapura"
+  }
+]

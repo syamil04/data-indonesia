@@ -1,1 +1,74 @@
-[{"id":"1401","nama":"KAB. KAMPAR","latitude":0.3218166613,"longitude":101.0688650102},{"id":"1402","nama":"KAB. INDRAGIRI HULU","latitude":-0.5476717654,"longitude":102.3259905745},{"id":"1403","nama":"KAB. BENGKALIS","latitude":1.4119064602,"longitude":101.6428613308},{"id":"1404","nama":"KAB. INDRAGIRI HILIR","latitude":-0.2326423622,"longitude":103.1595858762},{"id":"1405","nama":"KAB. PELALAWAN","latitude":0.2175088684,"longitude":102.2803876779},{"id":"1406","nama":"KAB. ROKAN HULU","latitude":0.9413576106,"longitude":100.5070643606},{"id":"1407","nama":"KAB. ROKAN HILIR","latitude":1.7731272764,"longitude":100.7491910663},{"id":"1408","nama":"KAB. SIAK","latitude":0.8176636391,"longitude":101.87925718},{"id":"1409","nama":"KAB. KUANTAN SINGINGI","latitude":-0.4741700388,"longitude":101.50591625},{"id":"1410","nama":"KAB. KEPULAUAN MERANTI","latitude":1.0032595798,"longitude":102.649343507},{"id":"1471","nama":"KOTA PEKANBARU","latitude":0.5512765526,"longitude":101.4657262946},{"id":"1472","nama":"KOTA DUMAI","latitude":1.8207559201,"longitude":101.2822869208}]
+[
+  {
+    "id": "1401",
+    "nama": "Kabupaten Kampar",
+    "latitude": 0.3218166613,
+    "longitude": 101.0688650102
+  },
+  {
+    "id": "1402",
+    "nama": "Kabupaten Indragiri Hulu",
+    "latitude": -0.5476717654,
+    "longitude": 102.3259905745
+  },
+  {
+    "id": "1403",
+    "nama": "Kabupaten Bengkalis",
+    "latitude": 1.4119064602,
+    "longitude": 101.6428613308
+  },
+  {
+    "id": "1404",
+    "nama": "Kabupaten Indragiri Hilir",
+    "latitude": -0.2326423622,
+    "longitude": 103.1595858762
+  },
+  {
+    "id": "1405",
+    "nama": "Kabupaten Pelalawan",
+    "latitude": 0.2175088684,
+    "longitude": 102.2803876779
+  },
+  {
+    "id": "1406",
+    "nama": "Kabupaten Rokan Hulu",
+    "latitude": 0.9413576106,
+    "longitude": 100.5070643606
+  },
+  {
+    "id": "1407",
+    "nama": "Kabupaten Rokan Hilir",
+    "latitude": 1.7731272764,
+    "longitude": 100.7491910663
+  },
+  {
+    "id": "1408",
+    "nama": "Kabupaten Siak",
+    "latitude": 0.8176636391,
+    "longitude": 101.87925718
+  },
+  {
+    "id": "1409",
+    "nama": "Kabupaten Kuantan Singingi",
+    "latitude": -0.4741700388,
+    "longitude": 101.50591625
+  },
+  {
+    "id": "1410",
+    "nama": "Kabupaten Kepulauan Meranti",
+    "latitude": 1.0032595798,
+    "longitude": 102.649343507
+  },
+  {
+    "id": "1471",
+    "nama": "Kota Pekanbaru",
+    "latitude": 0.5512765526,
+    "longitude": 101.4657262946
+  },
+  {
+    "id": "1472",
+    "nama": "Kota Dumai",
+    "latitude": 1.8207559201,
+    "longitude": 101.2822869208
+  }
+]
