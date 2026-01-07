@@ -8,6 +8,7 @@ CSV_PATH = 'referensi/master_prov_kabupaten_kota.csv'
 PROVINSI_JSON_PATH = 'provinsi.json'
 PROPINSI_JSON_PATH = 'propinsi.json'
 KABUPATEN_DIR = 'kabupaten'
+KOTA_DIR = 'kota'
 
 def normalize_name(name):
     """Normalize for comparison"""
@@ -187,8 +188,78 @@ def update_kabupatens(province_ids, csv_kabs):
                 json.dump(data, f, indent=2)
                 # f.write('\n')
             print(f"Updated {filename}")
+            
+def update_kota(province_ids, csv_kabs):
+    # Iterate through all json files in kabupaten folder
+    for filename in os.listdir(KOTA_DIR):
+        if not filename.endswith('.json'):
+            continue
+            
+        prov_id = filename.replace('.json', '')
+        if prov_id not in province_ids:
+            continue
+            
+        current_prov_name = province_ids[prov_id]
+        
+        # Check if we have CSV data for this province
+        # We might have mismatches if province name in CSV is different slightly
+        # But we just updated province_ids from CSV, so current_prov_name should matches CSV keys if it was found
+        
+        target_kabs_map = csv_kabs.get(current_prov_name)
+        
+        filepath = os.path.join(KOTA_DIR, filename)
+        with open(filepath, 'r') as f:
+            data = json.load(f)
+            
+        updated = False
+        for k in data:
+            original_name = k['nama']
+            
+            if target_kabs_map:
+                norm_name = normalize_name(original_name)
+                
+                # Direct match
+                if norm_name in target_kabs_map:
+                    new_name = target_kabs_map[norm_name]
+                else:
+                    # Fuzzy match
+                    keys = list(target_kabs_map.keys())
+                    matches = get_close_matches(norm_name, keys, n=1, cutoff=0.6)
+                    if matches:
+                        new_name = target_kabs_map[matches[0]]
+                    else:
+                        # Try searching by containment (e.g. "Bireuen" in "Aceh Jeumpa/Bireuen")
+                        found_cnt = None
+                        for key in keys:
+                            if norm_name in key or key in norm_name:
+                                found_cnt = key
+                                break
+                        
+                        if found_cnt:
+                            new_name = target_kabs_map[found_cnt]
+                        else:
+                            new_name = title_case_name(original_name)
+
+                if new_name != original_name:
+                    k['nama'] = new_name
+                    updated = True
+                    # print(f"Updated Kab ({current_prov_name}): {original_name} -> {new_name}")
+            else:
+                # No CSV data for this province (e.g. new Papua provinces)
+                new_name = title_case_name(original_name)
+                if new_name != original_name:
+                    k['nama'] = new_name
+                    updated = True
+                    # print(f"Refined Kab Name ({current_prov_name}): {original_name} -> {new_name}")
+
+        if updated:
+            with open(filepath, 'w') as f:
+                json.dump(data, f, indent=2)
+                # f.write('\n')
+            print(f"Updated {filename}")
 
 if __name__ == "__main__":
     csv_provinces, csv_kabs = load_csv()
     final_prov_map = update_provinces(csv_provinces)
+    update_kabupatens(final_prov_map, csv_kabs)
     update_kabupatens(final_prov_map, csv_kabs)
